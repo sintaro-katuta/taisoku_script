@@ -26,5 +26,5 @@ go run cmd/main.go
 ```
 
 ## 参考
-https://zenn.dev/ttsbs/articles/a8500c2a44356a
-https://note.com/s_t877/n/n7ce48a6e945f
+- https://zenn.dev/ttsbs/articles/a8500c2a44356a
+- https://note.com/s_t877/n/n7ce48a6e945f
